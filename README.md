@@ -1,6 +1,9 @@
-## Olá, me chamo Edson Júnior
+## Hey there! 👋
 
-<p align="center">Sou ❤️ por solucionar problemas através da tecnologia e estou sempre em busca de aprofundar meus conhecimentos na área. Atualmente, estou me especializando em desenvolvimento web full stack, uma área que me fascina e na qual pretendo construir minha carreira</p>&nbsp;
+<center>
+<p>Me chamo Edson Júnior</p>
+<p>Sou apaixonado por tecnologia e games! 😄 </p>
+</center>
 
 <div align="center" style="margin-bottom:100px">
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=EdsonJr21&theme=radical&mode=weekly" />
@@ -25,12 +28,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
-#### Pretendo estudar:
-
-![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-
-
 #### Ferramentas de Trabalho:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
@@ -42,13 +39,10 @@
 &nbsp;
 &nbsp;
 
-## Contatos:
+## Contato:
 
-<div> 
-</a>
-<a href = "mailto:contato.edson21y@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div style="text-align: center;"> 
+  <a href = "mailto:contato.edson21y@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-&nbsp;
-&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
