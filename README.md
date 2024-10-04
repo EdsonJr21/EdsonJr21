@@ -36,16 +36,16 @@
 
 ---
 
+### 🧠 Estudando
 <div align="center">
-  <h4>🧠 Estudando</h4>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </div>
 
 ---
 
+### 📫 Contato
 <div align="center">
-  <h4>📫 Contato</h4>
   <a href="mailto:contato.edson21y@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
