@@ -1,9 +1,9 @@
-<div align="center" style="margin-bottom:100px">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJr21&show_icons=true&theme=radical&layout=compact&langs_count=10&exclude=HTML,CSS,PowerShell" />
-</div>
-
 <div align="center">
   <h2>Olá, me chamo Edson 👋</h2>
+</div>
+
+<div align="center" style="margin-bottom:100px">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJr21&show_icons=true&theme=radical&layout=compact&langs_count=10&exclude=HTML,CSS,PowerShell" />
 </div>
 
 ### 🛠 Habilidades Técnicas
