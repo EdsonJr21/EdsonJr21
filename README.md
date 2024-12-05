@@ -1,10 +1,9 @@
 <div align="center" style="margin-bottom:100px">
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=EdsonJr21&theme=radical&mode=weekly" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJr21&show_icons=true&theme=radical&layout=compact" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJr21&show_icons=true&theme=radical&layout=compact&langs_count=10&exclude=HTML,CSS,PowerShell" />
 </div>
 
 <div align="center">
-  <h2>Olá, me chamo Edson Júnior 👋</h2>
+  <h2>Olá, me chamo Edson 👋</h2>
 </div>
 
 ### 🛠 Habilidades Técnicas
