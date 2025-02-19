@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Olá, me chamo Edson 👋</h2>
-  <h3>Sou um desenvolvedor Back-End</h3>
+  <h3>Analista de Dados 📊 | Estudante de Análise e Desenvolvimento de Sistemas 💻</h3>
 </div>
 
 <div align="center" style="margin-bottom:100px">
@@ -43,8 +43,7 @@
 
 ### 🧠 Estudando
 <div align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Análise_de_Dados-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ---
