@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Olá, me chamo Edson 👋</h2>
-  <h3>Analista de Dados 📊 | Estudante de Análise e Desenvolvimento de Sistemas 💻</h3>
+  <h3>Analista de Dados 📊</h3>
 </div>
 
 <div align="center" style="margin-bottom:100px">
