@@ -2,11 +2,13 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 </p>
 
-<p align="center">
+<div align="center">
+
   <h2>Olá, me chamo Edson 👋</h2>
   <h3>Desenvolvedor Full Stack em formação 🚀</h3>
   <p>Atualmente focado em JavaScript e tecnologias web</p>
-</p>
+
+</div>
 
 ---
 
