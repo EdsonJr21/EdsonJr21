@@ -5,8 +5,6 @@
 <div align="center">
 
   <h2>Olá, me chamo Edson 👋</h2>
-  <h3>Desenvolvedor Full Stack em formação 🚀</h3>
-  <p>Atualmente focado em JavaScript e tecnologias web</p>
 
 </div>
 
